@@ -1,5 +1,6 @@
+INSTAL
 Git Clone
-git clone https://github.com/agrawallalit/NCI_Blockchain.git
+git clone https://github.com/lokeshdumpa529/X21130400BlockChainProject.git
 
 Create .env file at the root directory with following content.
 
